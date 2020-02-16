@@ -11,7 +11,7 @@ https://www.kaggle.com/airbnb/seattle/data
 
 ### Screenshot:
 
-Percentage of missing values in categorical columns
+Percentage of missing values in the data
 ![screenshot1](https://user-images.githubusercontent.com/26545820/74226146-60a4b580-4cff-11ea-90d2-e3a7cdfd1d3e.png)
 
 The top 100 words in description column
