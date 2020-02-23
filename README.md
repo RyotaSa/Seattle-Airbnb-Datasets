@@ -21,7 +21,7 @@ listings.csv - summary information contains name, host, location, description, u
 
 ### Screenshot:
 
-Percentage of missing values in categorical data
+Percentage of null data in categorical variables
 ![screenshot1](https://user-images.githubusercontent.com/26545820/74226146-60a4b580-4cff-11ea-90d2-e3a7cdfd1d3e.png)
 
 The top 100 words in description column
@@ -34,4 +34,4 @@ Average of number of reviews with or without categorical data
 The main findings of the code can be found at [here]().
 
 ### Acknowledgement:
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Thanks to the Airbnb homepage and hosts in Seattle!
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Thanks to Airbnb and hosts in Seattle!
