@@ -12,9 +12,9 @@ The data is [Kaggle dataset](https://www.kaggle.com/airbnb/seattle/data).
 Pandas, Numpy, Matplotlib, NLTK
 
 ### Motivation:
-・Describing something in your Airbnb page isn't necessary, but how much difference a number of reviews when you write or you don't write?
-・What vocaburaries are hosts write at description?
-・What percentage is null data in categorical data?
+・Describing something in your Airbnb page isn't necessary, but how much difference a number of reviews when you write or you don't write?  
+・What vocaburaries are hosts write at description?  
+・What percentage is null data in categorical data?  
 
 ### Files used in the project:
 listings.csv - summary information contains name, host, location, description, url etc
@@ -34,4 +34,4 @@ Average of number of reviews with or without categorical data
 The main findings of the code can be found at [here]().
 
 ### Acknowledgement:
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Thanks to the Airbnb homepage and hosts in Seattle!
